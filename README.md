@@ -1,2 +1,3 @@
-# ufsm-ppgee-elc919-dsp
+# UFSM-PPGEE-ELC919-DSP class
 Digital signal processing - final class works
+
